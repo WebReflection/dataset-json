@@ -1,6 +1,6 @@
 {
   "name": "dataset-json",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Automatic JSON via dataset `json` attribute",
   "main": "./cjs/index.js",
   "scripts": {
